@@ -1,7 +1,7 @@
 # This is a brief description for this project
 # This project was for my system integration and architecture class.
 # This class used a program called Visual Studio 2022 which combined back end and front end functionalities in order to produce a windows form app
-# If you run the .exe for Project2 it will run as intended
+# If you download the entire file and run the .exe for Project2 it will run as intended
 # The goal with this project was to create multiple windows form to create a main menu with two games.
 # One game was a fruit matching game where 3 boxes with pictures of fruit changed constantly and by clicking the x under the picture you can stop the fruits from changing in order to match them all earning points
 # The second game was a frog catching game where a picture of a frog would jump around the area of the window at a certain speed and if you are able to click the picture of the frog you are awarded points if not you are deducted points.
